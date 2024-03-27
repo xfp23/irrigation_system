@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Irrigation_system",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"14.C": "cpp"
+		}
+	}
+}
